@@ -352,5 +352,5 @@ This course focuses on the latest syntax of C++ as approved by ANSI/ISO, referre
 
 - The ANSI/ISO Standard C++ syntax was approved in mid-1998.
 
-The second standard of C++, C++11, was approved in 2011. C++14 was approved in 2014.
+- The second standard of C++, C++11, was approved in 2011. C++14 was approved in 2014.
 
