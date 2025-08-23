@@ -304,62 +304,53 @@ This course focuses on the latest syntax of C++ as approved by ANSI/ISO, referre
 
 - A computer system has two components: hardware and software.
 
-The central processing unit (CPU) and the main memory are examples of hardware components.
+- The central processing unit (CPU) and the main memory are examples of hardware components.
 
-All programs must be brought into main memory before they can be executed.
+- All programs must be brought into main memory before they can be executed.
 
-When the power is switched off, everything in the main memory is lost.
+- When the power is switched off, everything in the main memory is lost.
 
-Secondary storage provides permanent storage for information. Hard disks, flash drives, and CD-ROMs are examples of secondary storage.
+- Secondary storage provides permanent storage for information. Hard disks, flash drives, and CD-ROMs are examples of secondary storage.
 
-Input to the computer is done via an input device. Two common input devices are the keyboard and the mouse.
+- Input to the computer is done via an input device. Two common input devices are the keyboard and the mouse.
 
-The computer sends its output to an output device, such as the computer screen or a printer.
+- The computer sends its output to an output device, such as the computer screen or a printer.
 
-Software are programs run by the computer.
+- Software are programs run by the computer.
 
-The operating system handles the overall activity of the computer and provides services.
+- The operating system handles the overall activity of the computer and provides services.
 
-The most basic language of a computer is a sequence of 0s and 1s called machine language. Every computer directly understands its own machine language.
+- The most basic language of a computer is a sequence of 0s and 1s called machine language. Every computer directly understands its own machine language.
 
-A bit is a binary digit, 0 or 1.
+- A bit is a binary digit, 0 or 1.
 
-A byte is a sequence of eight bits.
+- A byte is a sequence of eight bits.
 
-A sequence of 0s and 1s is referred to as a binary code or a binary number.
+- A sequence of 0s and 1s is referred to as a binary code or a binary number.
 
-One kilobyte (KB) is 
- bytes; one megabyte (MB) is 
- bytes; one gigabyte (GB) is 
- bytes; one terabyte (TB) is 
- bytes; one petabyte (PB) is 
- bytes; one exabyte (EB) is 
- bytes; and one zettabyte (ZB) is 
- bytes.
+- Assembly language uses easy-to-remember instructions called mnemonics.
 
-Assembly language uses easy-to-remember instructions called mnemonics.
+- Assemblers are programs that translate a program written in assembly language into machine language.
 
-Assemblers are programs that translate a program written in assembly language into machine language.
+- Compilers are programs that translate a program written in a high-level language into machine code, called object code.
 
-Compilers are programs that translate a program written in a high-level language into machine code, called object code.
+- A linker links the object code with other programs provided by the integrated development environment (IDE) and used in the program to produce executable code.
 
-A linker links the object code with other programs provided by the integrated development environment (IDE) and used in the program to produce executable code.
+- Typically, six steps are needed to execute a C++ program: edit, preprocess, compile, link, load, and execute.
 
-Typically, six steps are needed to execute a C++ program: edit, preprocess, compile, link, load, and execute.
+- A loader transfers executable code into main memory.
 
-A loader transfers executable code into main memory.
+- An algorithm is a step-by-step problem-solving process in which a solution is arrived at in a finite amount of time.
 
-An algorithm is a step-by-step problem-solving process in which a solution is arrived at in a finite amount of time.
+- The problem-solving process has three steps: analyze the problem and design an algorithm, implement the algorithm in a programming language, and maintain the program.
 
-The problem-solving process has three steps: analyze the problem and design an algorithm, implement the algorithm in a programming language, and maintain the program.
+- In structured design, a problem is divided into smaller subproblems. Each subproblem is solved, and the solutions to all of the subproblems are then combined to solve the problem.
 
-In structured design, a problem is divided into smaller subproblems. Each subproblem is solved, and the solutions to all of the subproblems are then combined to solve the problem.
+- In object-oriented design (OOD), a program is a collection of interacting objects.
 
-In object-oriented design (OOD), a program is a collection of interacting objects.
+- An object consists of data and operations on that data.
 
-An object consists of data and operations on that data.
-
-The ANSI/ISO Standard C++ syntax was approved in mid-1998.
+- The ANSI/ISO Standard C++ syntax was approved in mid-1998.
 
 The second standard of C++, C++11, was approved in 2011. C++14 was approved in 2014.
 
