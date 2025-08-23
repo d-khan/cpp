@@ -260,5 +260,37 @@ These IDEs are quite user friendly. When you compile your program, the compiler 
 
 The website http://msdn.microsoft.com/en-us/library/vstudio/ms235629.aspx explains how to use Visual C++ Express and Visual Studio 2015 to create a C++ program.
 
+## Programming with the Problem Analysis-Coding-Execution Cycle
+
+Programming is a process of problem solving. Different people use different techniques to solve problems. Some techniques are nicely outlined and easy to follow. They not only solve the problem, but also give insight into how the solution is reached. These problem-solving techniques can be easily modified if the domain of the problem changes.
+
+To be a good problem solver and a good programmer, you must follow good problem-solving techniques. One common problem-solving technique includes analyzing a problem, outlining the problem requirements, and designing steps, called an algorithm, to solve the problem.
+
+In a programming environment, the problem-solving process requires the following three steps:
+
+1. Analyze and outline the problem and its solution requirements, and design an algorithm to solve the problem.
+
+2. Implement the algorithm in a programming language, such as C++, and verify that the algorithm works.
+
+3. Maintain the program by using and modifying it if the problem domain changes.
+
+<img width="697" height="712" alt="Screen Shot 2025-08-23 at 2 23 37 PM" src="https://github.com/user-attachments/assets/42917241-4a3e-4529-b147-9a4dddeea0bc" />
+
+To develop a program to solve a problem, you start by analyzing the problem. You then design the algorithm; write the program instructions in a high-level language, or code the program; and enter the program into a computer system. Analyzing the problem is the first and most important step. This step requires you to do the following:
+
+1. Thoroughly understand the problem.
+
+2. Understand the problem requirements. Requirements can include whether the program requires interaction with the user, whether it manipulates data, whether it produces output, and what the output looks like. If the program manipulates data, the programmer must know what the data is and how it is represented. That is, you need to look at sample data. If the program produces output, you should know how the results should be generated and formatted.
+
+3. If the problem is complex, divide the problem into subproblems and repeat Steps 1 and 2. That is, for complex problems, you need to analyze each subproblem and understand each subproblem’s requirements.
+
+After you carefully analyze the problem, the next step is to design an algorithm to solve the problem. If you break the problem into subproblems, you need to design an algorithm for each subproblem. Once you design an algorithm, you need to check it for correctness. You can sometimes test an algorithm’s correctness by using sample data. At other times, you might need to perform some mathematical analysis to test the algorithm’s correctness.
+
+Once you have designed the algorithm and verified its correctness, the next step is to convert it into an equivalent programming code. You then use a text editor to enter the programming code or the program into a computer. Next, you must make sure that the program follows the language’s syntax. To verify the correctness of the syntax, you run the code through a compiler. If the compiler generates error messages, you must identify the errors in the code, remove them, and then run the code through the compiler again. When all the syntax errors are removed, the compiler generates the equivalent machine code, the linker links the machine code with the system’s resources, and the loader places the program into main memory so that it can be executed.
+
+The final step is to execute the program. The compiler guarantees only that the program follows the language’s syntax. It does not guarantee that the program will run correctly. During execution, the program might terminate abnormally due to logical errors, such as division by zero. Even if the program terminates normally, it may still generate erroneous results. Under these circumstances, you may have to reexamine the code, the algorithm, or even the problem analysis.
+
+**Your overall programming experience will be successful if you spend enough time to complete the problem analysis before attempting to write the programming instructions. Usually, you do this work on paper using a pen or a pencil. Taking this careful approach to programming has a number of advantages. It is much easier to find errors in a program that is well analyzed and well designed. Furthermore, a carefully analyzed and designed program is much easier to follow and modify. Even the most experienced programmers spend a considerable amount of time analyzing a problem and designing an algorithm.**
+
 
 
