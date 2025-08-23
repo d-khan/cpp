@@ -292,5 +292,74 @@ The final step is to execute the program. The compiler guarantees only that the 
 
 **Your overall programming experience will be successful if you spend enough time to complete the problem analysis before attempting to write the programming instructions. Usually, you do this work on paper using a pen or a pencil. Taking this careful approach to programming has a number of advantages. It is much easier to find errors in a program that is well analyzed and well designed. Furthermore, a carefully analyzed and designed program is much easier to follow and modify. Even the most experienced programmers spend a considerable amount of time analyzing a problem and designing an algorithm.**
 
+## ANSI/ISO Standard C++
+The programming language C++ evolved from C and was designed by Bjarne Stroustrup at Bell Laboratories in the early 1980s. From the early 1980s through the early 1990s, several C++ compilers were available. Even though the fundamental features of C++ in all compilers were mostly the same, the C++ language was evolving in slightly different ways in different compilers. As a consequence, C++ programs were not always portable from one compiler to another.
 
+To address this problem, in the early 1990s, a joint committee of the American National Standards Institute (ANSI) and International Organization for Standardization (ISO) was established to standardize the syntax of C++. In mid-1998, ANSI/ISO C++ language standards were approved. Most of today’s compilers comply with these new standards. Over the last several years, the C++ committee met several times to further standardize the syntax of C++. In 2011, the second standard of C++ was approved. The main objective of this standard, referred to as C++11, is to make the C++ code cleaner and more effective. For example, the new standard introduces the data type long long to deal with large integers, auto declaration of variables using initialization statements, enhancing the functionality of for loops to effectively work with arrays and containers, and new algorithms. Some of these new C++ features are introduced in this book. C++14, which is an update over C++11 was approved in 2014.
+
+This course focuses on the latest syntax of C++ as approved by ANSI/ISO, referred to as ANSI/ISO Standard C++.
+
+## Quick Review
+- A computer is an electronic device capable of performing arithmetic and logical operations.
+
+- A computer system has two components: hardware and software.
+
+The central processing unit (CPU) and the main memory are examples of hardware components.
+
+All programs must be brought into main memory before they can be executed.
+
+When the power is switched off, everything in the main memory is lost.
+
+Secondary storage provides permanent storage for information. Hard disks, flash drives, and CD-ROMs are examples of secondary storage.
+
+Input to the computer is done via an input device. Two common input devices are the keyboard and the mouse.
+
+The computer sends its output to an output device, such as the computer screen or a printer.
+
+Software are programs run by the computer.
+
+The operating system handles the overall activity of the computer and provides services.
+
+The most basic language of a computer is a sequence of 0s and 1s called machine language. Every computer directly understands its own machine language.
+
+A bit is a binary digit, 0 or 1.
+
+A byte is a sequence of eight bits.
+
+A sequence of 0s and 1s is referred to as a binary code or a binary number.
+
+One kilobyte (KB) is 
+ bytes; one megabyte (MB) is 
+ bytes; one gigabyte (GB) is 
+ bytes; one terabyte (TB) is 
+ bytes; one petabyte (PB) is 
+ bytes; one exabyte (EB) is 
+ bytes; and one zettabyte (ZB) is 
+ bytes.
+
+Assembly language uses easy-to-remember instructions called mnemonics.
+
+Assemblers are programs that translate a program written in assembly language into machine language.
+
+Compilers are programs that translate a program written in a high-level language into machine code, called object code.
+
+A linker links the object code with other programs provided by the integrated development environment (IDE) and used in the program to produce executable code.
+
+Typically, six steps are needed to execute a C++ program: edit, preprocess, compile, link, load, and execute.
+
+A loader transfers executable code into main memory.
+
+An algorithm is a step-by-step problem-solving process in which a solution is arrived at in a finite amount of time.
+
+The problem-solving process has three steps: analyze the problem and design an algorithm, implement the algorithm in a programming language, and maintain the program.
+
+In structured design, a problem is divided into smaller subproblems. Each subproblem is solved, and the solutions to all of the subproblems are then combined to solve the problem.
+
+In object-oriented design (OOD), a program is a collection of interacting objects.
+
+An object consists of data and operations on that data.
+
+The ANSI/ISO Standard C++ syntax was approved in mid-1998.
+
+The second standard of C++, C++11, was approved in 2011. C++14 was approved in 2014.
 
