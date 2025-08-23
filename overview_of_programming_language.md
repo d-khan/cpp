@@ -43,6 +43,7 @@ Major hardware components include the central processing unit (CPU); main memory
 The central processing unit is the “brain” of a computer and the most expensive piece of hardware in a computer. The more powerful the CPU, the faster the computer. Arithmetic and logical operations are carried out inside the CPU. Figure 1-1(a) shows some hardware components.
 
 <img width="783" height="443" alt="Screen Shot 2025-08-23 at 1 29 21 PM" src="https://github.com/user-attachments/assets/9de712fe-b070-41a8-9918-d70e8c20d096" />
+
 Figure 1-1 Hardware components of a computer and main memory
 
 Main memory, or random access memory, is connected directly to the CPU. All programs must be loaded into main memory before they can be executed. Similarly, all data must be brought into main memory before a program can manipulate it. When the computer is turned off, everything in main memory is lost.
