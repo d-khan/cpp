@@ -209,3 +209,56 @@ likes(john, pasta).
 - **Abstraction**: Programmers focus on logic, not hardware
 - **Productivity**: Faster development, fewer errors
 - **Domain Specialization**: Tools for business, science, AI, web, and mobile
+
+Moving from machine language to assembly language made programming easier, but a programmer was still forced to think in terms of individual machine instructions. The next step toward making programming easier was to devise high-level languages that were closer to natural languages, such as English, French, German, and Spanish. Basic, FORTRAN, COBOL, C, C++, C#, Java, and Python are all high-level languages. You will learn the high-level language C++ in this course.
+
+## Processing a C++ Program
+
+In the previous sections, we discussed machine language and high-level languages and showed a C++ statement. Because a computer can understand only machine language, you are ready to review the steps required to process a program written in C++.
+
+Consider the following C++ program:
+
+```c++
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout << "My first C++ program. "" << endl;
+  return 0;
+}
+```
+
+At this point, you need not be too concerned with the details of this program. However, if you run (execute) this program, it will display the following line on the screen:
+
+```My first ++ program.```
+
+Recall that a computer can understand only machine language. Therefore, in order to run this program successfully, the code must first be translated into machine language. In this section, we review the steps required to execute programs written in C++.
+
+The following steps, as shown in Figure 1-2, are necessary to process a C++ program.
+
+<img width="704" height="360" alt="Screen Shot 2025-08-23 at 2 10 46 PM" src="https://github.com/user-attachments/assets/6461b2a9-f5c9-4d50-bff5-345f1508ef66" />
+
+1. You use a text editor to create a C++ program following the rules, or syntax, of the high-level language. This program is called the source code, or source program. The program must be saved in a text file that has the extension .cpp. For example, if you saved the preceding program in the file named FirstCPPProgram, then its complete name is FirstCPPProgram.cpp.
+
+2. The C++ program given in the preceding section contains the statement #include <iostream>. In a C++ program, statements that begin with the symbol # are called preprocessor directives. These statements are processed by a program called preprocessor.
+
+3. After processing preprocessor directives, the next step is to verify that the program obeys the rules of the programming language—that is, the program is syntactically correct—and translate the program into the equivalent machine language. The compiler checks the source program for syntax errors and, if no error is found, translates the program into the equivalent machine language. The equivalent machine language program is called an object program.
+
+4. The programs that you write in a high-level language are developed using an integrated development environment (IDE). The IDE contains many programs that are useful in creating your program. For example, it contains the necessary code (program) to display the results of the program and several mathematical functions to make the programmer’s job somewhat easier. Therefore, if certain code is already available, you can use this code rather than writing your own code. Once the program is developed and successfully compiled, you must still bring the code for the resources used from the IDE into your program to produce a final program that the computer can execute. This prewritten code (program) resides in a place called the library. A program called a linker combines the object program with the programs from libraries.
+
+5. You must next load the executable program into main memory for execution. A program called a loader accomplishes this task.
+
+6. The final step is to execute the program.
+
+Figure 1-2 shows how a typical C++ program is processed.
+
+As a programmer, you mainly need to be concerned with Step 1. That is, you must learn, understand, and master the rules of the programming language to create source programs.
+
+As noted earlier, programs are developed using an IDE. Well-known IDEs used to create programs in the high-level language C++ include Visual C++ Express (2013 or 2016) and Visual Studio 2015 (from Microsoft), and C++ Builder (from Borland). You can also use Dev-C++ IDE from Bloodshed Software to create and test C++ programs. These IDEs contain a text editor to create the source program, a compiler to check the source program for syntax errors, a program to link the object code with the IDE resources, and a program to execute the program.
+
+These IDEs are quite user friendly. When you compile your program, the compiler not only identifies the syntax errors, but also typically suggests how to correct them. Moreover, with just a simple command, the object code is linked with the resources used from the IDE. For example, the command that does the linking on Visual C++ Express (2013 or 2016) and Visual Studio 2015 is Build or Rebuild. (For further clarification regarding the use of these commands, check the documentation of these IDEs.) If the program is not yet compiled, each of these commands first compiles the program and then links and produces the executable code.
+
+The website http://msdn.microsoft.com/en-us/library/vstudio/ms235629.aspx explains how to use Visual C++ Express and Visual Studio 2015 to create a C++ program.
+
+
+
