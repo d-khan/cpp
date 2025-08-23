@@ -93,7 +93,7 @@ A sequence of eight bits is called a byte. Moreover, ‍$2^{10}$ bytes = 1024 by
 ## Notes
 - **1 Byte (B) = 8 bits (b)**  
 - Prefixes in computing (KB, MB, GB, etc.) are based on powers of 2, not 10.  
-  - 1 KB = 2^10 bytes = 1,024 bytes (not 1,000).  
+  - 1 KB = $2^{10}$ bytes = 1,024 bytes (not 1,000).  
 - This is why storage manufacturers (who use decimal, e.g., 1 GB = 1,000,000,000 bytes) often show **slightly less space** on your computer.  
 
 
