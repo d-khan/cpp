@@ -73,7 +73,7 @@ Remember that a computer is an electronic device. Electrical signals are used in
 
 Because digital signals are processed inside a computer, the language of a computer, called machine language, is a sequence of 0s and 1s. The digit 0 or 1 is called a binary digit, or bit. Sometimes a sequence of 0s and 1s is referred to as a binary code or a binary number.
 
-A sequence of eight bits is called a byte. Moreover, ‍$ 2^{10} $ bytes = 1024 bytes is called a kilobyte (KB). Table 1-1 summarizes the terms used to describe various numbers of bytes.
+A sequence of eight bits is called a byte. Moreover, ‍$2^{10}$ bytes = 1024 bytes is called a kilobyte (KB). Table 1-1 summarizes the terms used to describe various numbers of bytes.
 
 # Table: Binary Units of Data
 
