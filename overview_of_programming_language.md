@@ -1,5 +1,6 @@
 # An Overview of Computers and Programming Languages
 
+
 Upon completion of this unit, students will be able to:
 
 - Summarize the history and evolution of programming languages
@@ -12,9 +13,11 @@ Upon completion of this unit, students will be able to:
 - Define ANSI/ISO Standard C++
 
 ## Introduction
+---
 Terms such as “the Internet,” which were unfamiliar just 25 years ago are now common. Students in elementary school regularly “surf” the Internet and use computers to design and implement their classroom projects. Many people use the Internet to look for information and to communicate with others. This is all made possible by the use of various software, also known as computer programs. Without software, a computer cannot work. Software is developed by using programming languages. C++ is one of the programming languages, which is well suited for developing software to accomplish specific tasks. The main objective of this book is to help you learn C++ programming language to write programs. Before you begin programming, it is useful to understand some of the basic terminology and different components of a computer. We begin with an overview of the history of computers.
 
 ## A Brief Overview of the History of Computers
+---
 The first device known to carry out calculations was the abacus. The abacus was invented in Asia but was used in ancient Babylon, China, and throughout Europe until the late middle ages. The abacus uses a system of sliding beads in a rack for addition and subtraction. In 1642, the French philosopher and mathematician Blaise Pascal invented the calculating device called the Pascaline. It had eight movable dials on wheels and could calculate sums up to eight figures long. Both the abacus and Pascaline could perform only addition and subtraction operations. Later in the 17th century, Gottfried von Leibniz invented a device that was able to add, subtract, multiply, and divide. In 1819, Joseph Jacquard, a French weaver, discovered that the weaving instructions for his looms could be stored on cards with holes punched in them. While the cards moved through the loom in sequence, needles passed through the holes and picked up threads of the correct color and texture. A weaver could rearrange the cards and change the pattern being woven. In essence, the cards programmed a loom to produce patterns in cloth. The weaving industry may seem to have little in common with the computer industry. However, the idea of storing information by punching holes on a card proved to be of great importance in the later development of computers.
 
 In the early and mid-1800s, Charles Babbage, an English mathematician and physical scientist, designed two calculating machines: the difference engine and the analytical engine. The difference engine could perform complex operations such as squaring numbers automatically. Babbage built a prototype of the difference engine, but did not build the actual device. The first complete difference engine was completed in London in 2002, 153 years after it was designed. It consists of 8,000 parts, weighs five tons, and measures 11 feet long. A replica of the difference engine was completed in 2008 and is on display at the Computer History Museum in Mountain View, California (http://www.computerhistory.org/babbage/). Most of Babbage’s work is known through the writings of his colleague Ada Augusta, Countess of Lovelace. Augusta is considered the first computer programmer.
@@ -34,6 +37,7 @@ Modern-day computers are powerful, reliable, and easy to use. They can accept sp
 Although there are several categories of computers, such as mainframe, midsize, and micro, all computers share some basic elements, described in the next section.
 
 ## Elements of a Computer System
+---
 A computer is an electronic device capable of performing commands. The basic commands that a computer performs are input (get data), output (display result), storage, and performance of arithmetic and logical operations. There are two main components of a computer system: hardware and software. In the next few sections, you will learn a brief overview of these components. Let’s look at hardware first.
 
 ### Hardware
@@ -66,7 +70,7 @@ System programs control the computer. The system program that loads first when y
 
 Application programs perform a specific task. Word processors, spreadsheets, and games are examples of application programs. The operating system is the program that runs application programs.
 
-## The Language of a Computer
+### The Language of a Computer
 When you press A on your keyboard, the computer displays A on the screen. But what is actually stored inside the computer’s main memory? What is the language of the computer? How does it store whatever you type on the keyboard?
 
 Remember that a computer is an electronic device. Electrical signals are used inside the computer to process information. There are two types of electrical signals: analog and digital. Analog signals are continuously varying continuous wave forms used to represent such things as sound. Audio tapes, for example, store data in analog signals. Digital signals represent information with a sequence of 0s and 1s. A 0 represents a low voltage, and a 1 represents a high voltage. Digital signals are more reliable carriers of information than analog signals and can be copied from one device to another with exact precision. You might have noticed that when you make a copy of an audio tape, the sound quality of the copy is not as good as the original tape. On the other hand, when you copy a CD, the copy is the same as the original. Computers use digital signals.
@@ -112,7 +116,6 @@ There are other encoding schemes, such as Unicode. Unicode consists of 65,536 ch
 
 ---
 
-### 1. Introduction
 Programming languages have evolved for more than **eight decades**.  
 The journey began with **machine instructions** and has advanced toward **AI-driven, high-level, and domain-specific languages**.  
 
@@ -124,7 +127,7 @@ The goal of this evolution:
 
 ---
 
-### 2. Generations of Programming Languages
+### Generations of Programming Languages
 
 #### First Generation (1GL) – Machine Language
 - Written directly in **binary (0s and 1s)**.  
