@@ -107,3 +107,102 @@ Inside the computer, every character is represented as a sequence of eight bits,
 ASCII is a seven-bit code. Therefore, to represent each ASCII character inside the computer, you must convert the seven-bit binary representation of an ASCII character to an eight-bit binary representation. This is accomplished by adding 0 to the left of the seven-bit ASCII encoding of a character. Hence, inside the computer, the character A is represented as 01000001, and the character 3 is represented as 00110011.
 
 There are other encoding schemes, such as Unicode. Unicode consists of 65,536 characters. To store a character belonging to Unicode, you need 16 bits or two bytes. Unicode was created to represent a variety of characters and is continuously expanding. It consists of characters from languages other than English.
+
+## Evolution of Programming Languages
+
+---
+
+### 1. Introduction
+Programming languages have evolved for more than **eight decades**.  
+The journey began with **machine instructions** and has advanced toward **AI-driven, high-level, and domain-specific languages**.  
+
+The goal of this evolution:  
+- Make programming easier for humans  
+- Increase productivity  
+- Reduce hardware dependence  
+- Open new application domains (business, web, mobile, AI, data science)  
+
+---
+
+### 2. Generations of Programming Languages
+
+#### First Generation (1GL) – Machine Language
+- Written directly in **binary (0s and 1s)**.  
+- Executes fast but extremely difficult for humans to read/write.  
+- Machine-specific.  
+
+**Example:**  
+
+```10110000 01100001```
+
+---
+
+#### Second Generation (2GL) – Assembly Language
+- Uses **mnemonics (symbols)** instead of raw binary.  
+- Still low-level and hardware dependent.  
+- Requires an **assembler** to convert into machine code.  
+
+**Example (x86 Assembly):**
+```asm
+MOV AL, 61h
+```
+
+#### Third Generation (3GL) – High-Level Languages
+
+- Closer to **human language**.
+- Portable across machines.
+- Requires **compiler or interpreter**.
+- Includes **C, Fortran, BASIC, Pascal, Java, Python**.
+
+**Example (C):**
+
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
+
+```
+
+#### Fourth Generation (4GL) – Domain-Specific Languages
+
+- Designed for **productivity** and **specialized domains**.
+- Often declarative: describe *what* you want, not *how*.
+- Examples: **SQL** (databases), **R** (statistics), **MATLAB** (scientific computing).
+
+**Example (SQL):**
+
+```sql
+SELECT name, age FROM Students WHERE gpa > 3.5;
+```
+
+#### Fifth Generation (5GL) – Logic & AI Languages
+
+- Focuses on **problem-solving using constraints and logic**.
+- Used in **AI, machine learning, natural language processing**.
+- Examples: **Prolog, Lisp**, and modern frameworks like **TensorFlow (Python APIs)**.
+
+**Example (Prolog):**
+
+```prolog
+likes(mary, pizza).
+likes(john, pasta).
+
+```
+
+### Timeline Highlights
+
+- **1950s** → FORTRAN (scientific), COBOL (business)
+- **1970s** → C (system programming, portable)
+- **1980s** → C++ (object-oriented, system-level)
+- **1990s** → Java (platform-independent), Python (easy to learn/use)
+- **2000s–2020s** → JavaScript (web), Swift (iOS), Rust & Go (modern system languages), and languages/frameworks for **AI & Data Science**
+
+### Why Evolution Was Needed
+
+- **Readability**: From binary to human-like syntax
+- **Portability**: Code works across machines
+- **Abstraction**: Programmers focus on logic, not hardware
+- **Productivity**: Faster development, fewer errors
+- **Domain Specialization**: Tools for business, science, AI, web, and mobile
