@@ -75,7 +75,7 @@ Because digital signals are processed inside a computer, the language of a compu
 
 A sequence of eight bits is called a byte. Moreover, $2^{10}$ bytes = 1024 bytes is called a kilobyte (KB). Table 1-1 summarizes the terms used to describe various numbers of bytes.
 
-# Table: Binary Units of Data
+**Table: Binary Units of Data**
 
 | Unit       | Symbol | Equivalent in Bytes      | Equivalent in Bits       |
 |------------|--------|--------------------------|--------------------------|
@@ -90,7 +90,7 @@ A sequence of eight bits is called a byte. Moreover, $2^{10}$ bytes = 1024 bytes
 
 ---
 
-## Notes
+**Notes**
 - **1 Byte (B) = 8 bits (b)**  
 - Prefixes in computing (KB, MB, GB, etc.) are based on powers of 2, not 10.  
   - 1 KB = $2^{10}$ bytes = 1,024 bytes (not 1,000).  
