@@ -75,6 +75,26 @@ Because digital signals are processed inside a computer, the language of a compu
 
 A sequence of eight bits is called a byte. Moreover, ‍$2^{10}$ bytes = 1024 bytes is called a kilobyte (KB). Table 1-1 summarizes the terms used to describe various numbers of bytes.
 
+# Table: Binary Units of Data
+
+| Unit       | Symbol | Equivalent in Bytes      | Equivalent in Bits       |
+|------------|--------|--------------------------|--------------------------|
+| Bit        | b      | 1/8 byte                | 1 bit                    |
+| Byte       | B      | 1 byte                  | 8 bits                   |
+| Kilobyte   | KB     | 1,024 bytes             | 8,192 bits               |
+| Megabyte   | MB     | 1,024 KB = 1,048,576 B  | 8,388,608 bits           |
+| Gigabyte   | GB     | 1,024 MB                | 8,589,934,592 bits       |
+| Terabyte   | TB     | 1,024 GB                | 8,796,093,022,208 bits   |
+| Petabyte   | PB     | 1,024 TB                | 9,007,199,254,740,992 bits |
+| Exabyte    | EB     | 1,024 PB                | ~9.22 × 10^18 bits       |
+
+---
+
+## Notes
+- **1 Byte (B) = 8 bits (b)**  
+- Prefixes in computing (KB, MB, GB, etc.) are based on powers of 2, not 10.  
+  - 1 KB = 2^10 bytes = 1,024 bytes (not 1,000).  
+- This is why storage manufacturers (who use decimal, e.g., 1 GB = 1,000,000,000 bytes) often show **slightly less space** on your computer.  
 
 
 Every letter, number, or special symbol (such as * or {) on your keyboard is encoded as a sequence of bits, each having a unique representation. The most commonly used encoding scheme on personal computers is the seven-bit American Standard Code for Information Interchange (ASCII). The ASCII data set consists of 128 characters numbered 0 through 127. That is, in the ASCII data set, the position of the first character is 0, the position of the second character is 1, and so on. In this scheme, A is encoded as the binary number 1000001. In fact, A is the 66th character in the ASCII character code, but its position is 65 because the position of the first character is 0. Furthermore, the binary number 1000001 is the binary representation of 65. The character 3 is encoded as 0110011. Note that in the ASCII character set, the position of the character 3 is 51, so the character 3 is the 52nd character in the ASCII set. It also follows that 0110011 is the binary representation of 51. For a complete list of the printable ASCII character set, refer to Appendix C.
