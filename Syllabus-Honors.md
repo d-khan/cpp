@@ -74,7 +74,7 @@ I would recommend that you follow my notes and resources provided on the course 
 
 | Evaluation type           | Out of 100 |
 |:--------------------------|:-------------|
-| Weekly lab assignments    | 40           |
+| Lab assignments           | 40           |
 | Research work and meetings| 15           |
 | Career-related activities | 5            |
 | Discussions               | 20           |
