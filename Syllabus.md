@@ -57,6 +57,7 @@ By the end of the course, students will be able to apply C++ programming skills 
 
 The following is the textbook used for this course
 - D.S. Malik, C++ Programming: Program Design Including Data Structures, 8th ed. Cengage Learning, 2017, ISBN: 1337117560
+
 I would recommend that you follow my notes and resources provided on the course site in Canvas.  
 
 ## Software and hardware resources
