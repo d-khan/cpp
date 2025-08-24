@@ -33,22 +33,21 @@ By the end of the course, students will be able to apply C++ programming skills 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |25 Aug  |Java lang review | Apply arrays, loops, data types, and methods | 31 Aug |
-|2  |1 Sep  |Object and classes | Write code based on OOP principles | 7 Sep |
-|3  |8 Sep |Memory management | Disect code and identify how stacks, heaps, and garbage collections are utilized | 14 Sep |
-|4  |15 Sep |Input and output | Perform input/output operation on a text file using Java | 21 Sep |
+|1  |25 Aug  |An overview of computers and programming languages| Apply arrays, loops, data types, and methods | 31 Aug |
+|2  |1 Sep  |Basic elements of C++ | Write code based on OOP principles | 7 Sep |
+|3  |8 Sep |Input/Output | Disect code and identify how stacks, heaps, and garbage collections are utilized | 14 Sep |
+|4  |15 Sep |Control structures I | Perform input/output operation on a text file using Java | 21 Sep |
 |   |        |__Quiz 1 on Mon 15 Sep available all day__| |
-|5  |22 Sep |Inheritance | Demonstrate inheritance concepts and write a code to solve a task and identify when and when not to use inheritance| 28 Sep |
-|6  |29 Sep  |Inheritance (contd.) | Hands-on activity (contd.) | 5 Oct |
-|7  |6 Oct |Exceptions| Solve a task with and without exceptions | 12 Oct |
+|5  |22 Sep |Control structures II | Demonstrate inheritance concepts and write a code to solve a task and identify when and when not to use inheritance| 28 Sep |
+|6  |29 Sep  |User defined functions | Hands-on activity (contd.) | 5 Oct |
+|7  |6 Oct |User defined simple data types | 12 Oct |
 |   |        |__Quiz 2 on Mon 6 Oct available all day__| |
-|8  |13 Oct |__Hands-on exam on Mon 13 Oct available all day__|
-|9  |20 Oct  |Collections | Apply data structures using collections and perform code profiling  | 26 Oct|
-|10 |27 Oct  |GUI| Create user interface using JFrame and Swing GUI components | 2 Nov|
-|11 |3 Nov  |GUI (contd.) | Improve a seat reservation system using Swing GUI components | 9 Nov |
+|8  |13 Oct | Arrays and Strings | xxxx | date |
+|9  |20 Oct  |Records (structs) | Apply data structures using collections and perform code profiling  | 26 Oct|
+|10 |27 Oct  |Classes and data abstraction| Create user interface using JFrame and Swing GUI components | 2 Nov|
+|11-12 |3 Nov  |Inheritance and composition| Improve a seat reservation system using Swing GUI components | 9 Nov |
 |   |        |__Quiz 3 on Mon 3 Nov available all day__| |
-|12 |10 Nov |Searching and sorting | Apply searching and sorting algorithms and differentiate performance using O(N) notations | 16 Nov |
-|13 |17 Nov |Java database programming | Install MySQL database, create a database, and write basic MySQL queries | 23 Nov |
+|13-14 |17 Nov |Pointers, classes, virtual functions, abstract classes and lists | Install MySQL database, create a database, and write basic MySQL queries | 23 Nov |
 |   |        |__Quiz 4 on Mon 17 Nov available all day__| |
 |||__Thanksgiving break (24 - 30 Nov) - No classes__|
 |14 |1 Dec   |Java database programming (contd.) & Project | Connect Java with MySQL database using J connecter and write MySQL queries in Java | 7 Dec |
