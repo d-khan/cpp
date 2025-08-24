@@ -1,4 +1,4 @@
-# Syllabus (CISC-179 Python Programming)
+# Syllabus (CISC-192 C/C++ Programming)
 
 ## Welcome to the course!
 My name is Dr. Danish Khan, and I am excited to begin this educational journey with all of you! Together, we will create a supportive and inclusive environment where everyone’s ideas are valued and respected. Your active participation will enrich our learning community, and I look forward to getting to know each of you. Let’s make this school year a meaningful experience filled with growth, learning, and lasting positive memories!
