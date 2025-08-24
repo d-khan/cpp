@@ -35,7 +35,7 @@ By the end of the course, students will be able to apply C++ programming skills 
 |-|--|--|---|----|
 |1  |25 Aug  |An overview of computers and programming languages| Programming with the Problem-Analysis-Coding-Execution Cycle | 31 Aug |
 |2  |1 Sep   |Basic elements of C++ | Apply data types, variables, operators precedence, assignment statements, input-output assignments & debugging| 7 Sep |
-|3  |8 Sep   |Write a program which covers I/O streams and standard I/O devices, using predefined functions, output and formatting output, file input and output |  14 Sep |
+|3  |8 Sep   |Input/Output | Write a program which covers I/O streams and standard I/O devices, using predefined functions, output and formatting output, file input and output |  14 Sep |
 |4  |15 Sep  |Control structures I | Programming exercise which covers if-then-else and switch structures | 21 Sep |
 |   |        |__Quiz 1 on Mon 15 Sep available all day__| |
 |5  |22 Sep  |Control structures II | Use while, do, for loops, break and continue statements | 28 Sep |
