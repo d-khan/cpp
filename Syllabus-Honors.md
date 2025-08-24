@@ -78,7 +78,7 @@ I would recommend that you follow my notes and resources provided on the course 
 | Research work and meetings| 15           |
 | Career-related activities | 5            |
 | Discussions               | 20           |
-| Project x 2               | 20           |
+| Project                   | 20           |
 
 ## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
 
