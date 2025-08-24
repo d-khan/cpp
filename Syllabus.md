@@ -35,21 +35,61 @@ By the end of the course, students will be able to apply C++ programming skills 
 |-|--|--|---|----|
 |1  |25 Aug  |An overview of computers and programming languages| Programming with the Problem-Analysis-Coding-Execution Cycle | 31 Aug |
 |2  |1 Sep   |Basic elements of C++ | Apply data types, variables, operators precedence, assignment statements, input-output assignments & debugging| 7 Sep |
-|3  |8 Sep   |Input/Output |  | 14 Sep |
-|4  |15 Sep  |Control structures I | Perform input/output operation on a text file using Java | 21 Sep |
+|3  |8 Sep   |Write a program which covers I/O streams and standard I/O devices, using predefined functions, output and formatting output, file input and output |  14 Sep |
+|4  |15 Sep  |Control structures I | Programming exercise which covers if-then-else and switch structures | 21 Sep |
 |   |        |__Quiz 1 on Mon 15 Sep available all day__| |
-|5  |22 Sep  |Control structures II | Demonstrate inheritance concepts and write a code to solve a task and identify when and when not to use inheritance| 28 Sep |
-|6  |29 Sep  |User defined functions | Hands-on activity (contd.) | 5 Oct |
-|7  |6 Oct   |User defined simple data types | 12 Oct |
-|   |        |__Quiz 2 on Mon 6 Oct available all day__| |
-|8  |13 Oct  | Arrays and Strings | xxxx | date |
-|9  |20 Oct  |Records (structs) | Apply data structures using collections and perform code profiling  | 26 Oct|
-|10 |27 Oct  |Classes and data abstraction| Create user interface using JFrame and Swing GUI components | 2 Nov|
-|11-12|3 Nov |Inheritance and composition| Improve a seat reservation system using Swing GUI components | 9 Nov |
+|5  |22 Sep  |Control structures II | Use while, do, for loops, break and continue statements | 28 Sep |
+|6-7|29 Sep  |User defined functions | Apply programming exercise using void, value returning functions, value parameters, reference variables, scope of variables | 12 Oct |
+|   |        |__Quiz 2 on Mon 29 Sep available all day__| |
+|8  |13 Oct  | User defined simple data types | Enumeration type, namespaces and string type | 19 Oct |
+|9  |20 Oct  |Arrays and Strings | Single, multidimensional and character arrays | 26 Oct|
+|10 |27 Oct  |Records (structs)| Accessing struct members, and arrays vs structs | 2 Nov|
+|11-12|3 Nov |Classes and data abstraction| Data abstraction, classes, and abstract data types | 16 Nov |
 |   |        |__Quiz 3 on Mon 3 Nov available all day__| |
-|13 |17 Nov  |Pointers, classes, virtual functions, abstract classes and lists | Install MySQL database, create a database, and write basic MySQL queries | 23 Nov |
+|13 |17 Nov  |Inheritance and composition | Apply classes, objects and operations | 23 Nov |
 |   |        |__Quiz 4 on Mon 17 Nov available all day__| |
 |||__Thanksgiving break (24 - 30 Nov) - No classes__|
-|14 |1 Dec   |Pointers (contd.) | Connect Java with MySQL database using J connecter and write MySQL queries in Java | 7 Dec |
-|15 |8 Dec |Overloading and Templates | Apply GUI, data structures, and database knowledge to create an application | 14 Dec |
+|14-15 |1 Dec   |Pointers, classes, virtual functions, abstract classes and lists | Apply pointer data type, pointer variables, dynamic variables and arrays, abstract classes and pure virtual functions | 14 Dec |
 |16 |15 Dec |__Final exam on Mon 15 Dec available all day__ | |
+
+
+## Textbook
+
+The following is the textbook used for this course
+- Liang, Y. Daniel. Intro to Java Programming, Comprehensive Version, 12th ed. Pearson, 2019, ISBN: 9780136529153
+I would recommend that you follow my notes and resources provided on the course site in Canvas.  
+
+## Software and hardware resources
+
+- Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
+- SD Miramar students may check out laptops from the library, dependent on availability at <https://sdmiramar.edu/library/equipment_checkout>
+
+## [Grading scheme](https://github.com/d-khan/sdccd/blob/main/grading_scheme.md)
+## Course evaluation schemes
+
+|Evaluation type|Out of 100|
+|:-|:-|
+|Lab assignments|20|
+|Quizzes |10|
+|Hands-on exam|30|
+|Project|20|
+|Final exam|20|
+
+## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
+
+## [Attendance/Absences](https://github.com/d-khan/sdccd/blob/main/attendance.md)
+
+## [Use of Artificial Intelligence Tools](https://github.com/d-khan/sdccd/blob/main/use_of_AI.md)
+
+## [Cheating/Plagiarism](https://github.com/d-khan/sdccd/blob/main/cheating.md)
+
+## [Honest Academic Conduct](https://github.com/d-khan/sdccd/blob/main/honest-academic.md)
+
+## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
+
+## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
+
+## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
+
+____
+Last updated on Aug 2025
