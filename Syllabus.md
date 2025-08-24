@@ -34,8 +34,8 @@ By the end of the course, students will be able to apply C++ programming skills 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
 |1  |25 Aug  |An overview of computers and programming languages| Programming with the Problem-Analysis-Coding-Execution Cycle | 31 Aug |
-|2  |1 Sep   |Basic elements of C++ | Apply data types, variables, operators precedence, assignment statements, inpput & output & debugging| 7 Sep |
-|3  |8 Sep   |Input/Output | Disect code and identify how stacks, heaps, and garbage collections are utilized | 14 Sep |
+|2  |1 Sep   |Basic elements of C++ | Apply data types, variables, operators precedence, assignment statements, input-output assignments & debugging| 7 Sep |
+|3  |8 Sep   |Input/Output |  | 14 Sep |
 |4  |15 Sep  |Control structures I | Perform input/output operation on a text file using Java | 21 Sep |
 |   |        |__Quiz 1 on Mon 15 Sep available all day__| |
 |5  |22 Sep  |Control structures II | Demonstrate inheritance concepts and write a code to solve a task and identify when and when not to use inheritance| 28 Sep |
