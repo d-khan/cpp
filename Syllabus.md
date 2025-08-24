@@ -71,10 +71,11 @@ I would recommend that you follow my notes and resources provided on the course 
 |Evaluation type|Out of 100|
 |:-|:-|
 |Lab assignments|20|
-|Discussions & quizzes |10|
-|Hands-on exam I|30|
-|Project|20|
+|Discussions & quizzes |20|
+|Hands-on exam I|20|
 |Hands-on exam II|20|
+|Project|20|
+
 
 ## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
 
