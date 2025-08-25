@@ -28,7 +28,7 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 <img src="https://github.com/d-khan/cpp/blob/main/homepage.png" alt="drawing" width="600"/>
 
 ## 4. Review the Course Syllabus
-Review the course [Course Syllabus](https://github.com/d-khan/java/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
+Review the course [Course Syllabus](https://github.com/d-khan/cpp/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. How will my class be conducted?
 **Fully online:** All classwork is conducted online through Canvas without a requirement for real-time/live meetings. However, regular login to Canvas and submitting assignments on time are mandatory to avoid dropping or withdrawing from the course.
