@@ -18,3 +18,14 @@ int main()		// Execution begins from the main. This is a function which return 0
 	y = constant + (slope * x);
 	/* ⬆ The calculation is performed from right to left, and the result is stored in the memory location y 
 	as a decimal value. */
+	cout << "The value of y is "<< y << endl;
+	/* ⬆ cout (character output) is used to display text on the console. The << insertion operator 
+	sends data into the output stream, which in this case is the screen.*/
+	
+	return 0;
+	/* ⬆ In C++, the function main() must return an integer (int).
+	return 0; ends the program and sends the value 0 back to the operating system (OS). */
+
+} //end of main function
+
+
