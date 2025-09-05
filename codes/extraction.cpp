@@ -13,6 +13,6 @@ int main() {
     cin >> ch; // user input is ignored since Y is already in the buffer
     cout << ch << endl; // assigns ch='Y'
     cin >> var1 >> var2; // two integer inputs seperated by a space (more than a space is ignored)
-    cout << var1 << " " << var2 << endl; //space is important to separate variables output
+    cout << var1 << " " << var2 << endl; //Adding spaces is important to clearly separate variable outputs
     return 0;
 }
