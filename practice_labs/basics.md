@@ -14,15 +14,9 @@ By the end, students can:
 
 ---
 
-## Files to create
-- `partA_expressions.cpp`
-- `partB_types.cpp`
-- `partC_paycheck.cpp`
-- `partD_debugging.cpp`
+## Part A — Expressions & Assignments
 
-## Part A — Expressions & Assignments (25 pts)
-
-### Task A1: Precedence check (10 pts)
+### Task A1: Precedence check
 
 Write a program that reads three integers `a, b, c` and computes:
 
@@ -43,7 +37,7 @@ a / b * c = 6
 a / (b * c) = 0
 ```
 
-### Task A2: Compound assignment (15 pts)
+### Task A2: Compound assignment 
 
 Read a double `balance` and two integers `deposits` & `withdrawals`.
  Each deposit adds `$25.50`; each withdrawal subtracts `$12.75`.
@@ -64,9 +58,9 @@ Final balance = 100.00 + 3*25.50 - 4*12.75 = 126.75
 std::cout << std::fixed << std::setprecision(2);
 ```
 
-## Part B — Implicit vs Explicit Conversion (30 pts)
+## Part B — Implicit vs Explicit Conversion 
 
-### Task B1: The “average trap” (15 pts)
+### Task B1: The “average trap” 
 
 Read three **ints** (exam scores). Print the average twice:
 
@@ -87,7 +81,7 @@ Use:
 static_cast<double>(sum) / 3
 ```
 
-### Task B2: Percentage with safe casting (15 pts)
+### Task B2: Percentage with safe casting 
 
 Read `wins` and `games` (ints). Compute win percentage **as double**.
 
@@ -100,7 +94,7 @@ double pct = static_cast<double>(wins) / static_cast<double>(games) * 100.0;
 
 Print with one decimal place, e.g. `Win% = 62.5%`.
 
-## Part C — Paycheck Calculator (30 pts)
+## Part C — Paycheck Calculator 
 
 ### Inputs
 
@@ -130,7 +124,7 @@ Benefits: $35.00
 Net: $768.60
 ```
 
-## Part D — Debugging (15 pts)
+## Part D — Debugging 
 
 Fix the following buggy program:
 
