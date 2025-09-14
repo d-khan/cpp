@@ -23,8 +23,9 @@ By the end, students can:
 
 ## What do you need to complete this exercise?
 
-- Submit your responses in a Markdown file on GitHub. Ensure that all code included in the Markdown file runs without errors. Refer to [Submitting Your Assignment Using GitHub](https://sdccd-edu.zoom.us/rec/share/F4rK6ZABMXlRn4aGlZ9P005e-iRKwq8rr9KuawDoJ77TdkybKU2tpf4l4QSe113g.ut4jpVaqaPY0oI7b?startTime=1725121532000) for detailed instructions.
-- Create a video of yourself explaining the code. Use a desktop or laptop to write and record the code, ensuring both your screen and your image are visible. If you don’t have a laptop, you may borrow one from the library for the entire semester.
+- Submit your responses in a Markdown file on GitHub, and include a brief reflection on the challenges you encountered during the lab.
+- Ensure that all code included in the Markdown file runs without errors. Refer to [Submitting Your Assignment Using GitHub](https://sdccd-edu.zoom.us/rec/share/F4rK6ZABMXlRn4aGlZ9P005e-iRKwq8rr9KuawDoJ77TdkybKU2tpf4l4QSe113g.ut4jpVaqaPY0oI7b?startTime=1725121532000) for detailed instructions.
+- Record a video of yourself explaining the code. Use a desktop or laptop to write and demonstrate the code, making sure that both your screen and your image are visible. If you do not have a laptop, you may borrow one from the library for the semester.
 
 ### Requirements
 
@@ -32,7 +33,7 @@ By the end, students can:
 2. Read two `double` operands with validation; reject non-numeric input.
 3. For divide: detect division by zero using `if (b == 0)`; keep the program running.
 
-## Challenges (this is required)
+## Challenges
 
 Please describe the challenges you faced during the exercise.
 
