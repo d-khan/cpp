@@ -62,9 +62,11 @@ Copy your working code from an IDE (e.g., Visual Studio or any other you prefer)
 Your code here
 ```
 
-## Paste video link below the line below
-_____
+## Paste video link here
 
+```
+Video link here
+```
 
 
 
