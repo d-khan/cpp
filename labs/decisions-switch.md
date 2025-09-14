@@ -72,8 +72,5 @@ Video link here
 <br>
 <br>
 <br>
-<br>
 
-<center> 
-
-  **End of exercise**
+**End of exercise**
