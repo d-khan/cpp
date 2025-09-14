@@ -32,7 +32,7 @@ By the end, students can:
 2. Read two `double` operands with validation; reject non-numeric input.
 3. For divide: detect division by zero using `if (b == 0)`; keep the program running.
 
-## Challenges
+## Challenges (this is required)
 
 Please describe the challenges you faced during the exercise.
 
