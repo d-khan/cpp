@@ -74,4 +74,4 @@ Video link here
 <br>
 <br>
 
-**End of exercise**
+<center> **End of exercise** </center>
