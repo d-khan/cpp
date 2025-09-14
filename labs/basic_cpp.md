@@ -14,7 +14,7 @@ By the end, students can:
 
 ---
 
-## Files to show in the markdown
+## Codes to show in the markdown
 
 **partA_expressions.cpp**
 ```cpp
