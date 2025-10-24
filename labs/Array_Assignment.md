@@ -76,7 +76,7 @@ Array sorted in ascending order:
 
 ```cpp
 // Name: Your Full Name
-// Course: CISC 187 - Data Structures in C++
+// Course: CISC 192 - C++ Programming
 // Date: MM/DD/YYYY
 // Assignment: Non-Duplicated Integer Array Operations
 ```
