@@ -69,8 +69,8 @@ Array sorted in ascending order:
 ---
 
 ## 📦 Submission Requirements
-- File name: `array_operations.cpp`
-- Submit your `.cpp` file to Canvas before the due date.
+- Submit the code in github in markdown format and share the link. No grading if the file is not formatted and uploaded correctly
+- File name: `array_operations.md`
 - Include your **name**, **course**, and **date** as comments at the top of the file.
 
 ```cpp
