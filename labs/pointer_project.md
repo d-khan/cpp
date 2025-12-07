@@ -185,7 +185,7 @@ Submit (all in the GitHub)
 - UML diagram 
 - Working `main.cpp`  
 - Reflection document
-- Code must compile without warnings (**remember without warnings, I am talking about the errors**) 
+- Code must compile without warnings (**remember without warnings, I am not talking about the errors**) 
 
 ---
 
