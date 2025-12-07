@@ -1,5 +1,5 @@
 
-# 📘 C++ Pointer Project  
+# C++ Pointer Project  
 ## **Task Manager Using Classes + Raw Pointers + Dynamic Pointers + `unique_ptr`**
 
 ---
@@ -16,7 +16,7 @@ You must use **classes**.
 
 ---
 
-## 🧱 Class Definition Requirement
+## Class Definition Requirement
 
 You must define the following class:
 
@@ -42,7 +42,7 @@ You may extend it as you wish.
 
 ---
 
-# 🅿️ Part A — Raw Pointers to Stack Objects
+# 🅿️art A — Raw Pointers to Stack Objects
 
 ### Goal  
 Practice pointer usage with stack objects.
@@ -78,7 +78,7 @@ A short demo showing the correct usage of raw pointers pointing to stack objects
 
 ---
 
-# 🅿️ Part B — Dynamic Memory Using Raw Pointers (`new` / `delete`)
+# 🅿️art B — Dynamic Memory Using Raw Pointers (`new` / `delete`)
 
 ### Goal  
 Use manually managed heap memory.
@@ -120,7 +120,7 @@ A menu-driven program using dynamically allocated raw pointers.
 
 ---
 
-# 🅿️ Part C — Smart Pointer Version (`std::unique_ptr`)
+# 🅿️art C — Smart Pointer Version (`std::unique_ptr`)
 
 ### Goal  
 Use RAII and `unique_ptr` for memory-safe management.
@@ -162,7 +162,7 @@ A second version of the Task Manager using smart pointers.
 
 ---
 
-# 🅿️ Part D — Reflection (½–1 page)
+# 🅿️art D — Reflection (½–1 page)
 
 Answer the following:
 
