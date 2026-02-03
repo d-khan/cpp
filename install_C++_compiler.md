@@ -5,17 +5,18 @@ Follow the steps for your operating system. At the end, you’ll test your compi
 
 ---
 
-## Windows (MinGW-w64)
+## Windows (MSYS2)
 
-1. Go to the MinGW-w64 download page: [https://www.mingw-w64.org/downloads/](https://www.mingw-w64.org/downloads/)  
-2. Download the **SourceForge installer**.  
-3. During installation, select:  
-   - Architecture = `x86_64`  
-   - Threads = `posix`  
-   - Exception = `seh`  
-4. Install to:  C:\mingw64
-5. Add `C:\mingw64\bin` to your **PATH** (via Environment Variables).  
-6. Open **Command Prompt** and run:  
+1. Go to the [MSYS2](https://www.msys2.org/) and follow the installation steps (1-7) posted on the website.
+2. Add C:\msys64\mingw64\bin path in Windows
+   - Go to Windows search and type "System Variables". Select "Edit the system environment variables" -> Environment Variables -> System variables -> Highlight Path -> Edit -> New -> Then paste C:\msys64\mingw64\bin -> select OK several times -> Restart your computer
+3. After restart -> Go to command prompt -> type ```g++ --version``` -> the following output will display
+```txt
+g++ (Rev8, Built by MSYS2 project) 15.2.0
+Copyright (C) 2025 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
 
 ```bash
 g++ --version
