@@ -18,11 +18,7 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
-```bash
-g++ --version
-```
-
-If you see a version number, you’re done!
+If you see the above output, you’re done!
 
 ## macOS
 
