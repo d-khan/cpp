@@ -8,7 +8,7 @@ Follow the steps for your operating system. At the end, you’ll test your compi
 ## Windows (MSYS2)
 
 1. Go to the [MSYS2](https://www.msys2.org/) and follow the installation steps (1-7) posted on the website.
-2. Add C:\msys64\mingw64\bin path in Windows
+2. Add ```C:\msys64\mingw64\bin``` path in Windows
    - Go to Windows search and type "System Variables". Select "Edit the system environment variables" -> Environment Variables -> System variables -> Highlight Path -> Edit -> New -> Then paste C:\msys64\mingw64\bin -> select OK several times -> Restart your computer
 3. After restart -> Go to command prompt -> type ```g++ --version``` -> the following output will display
 ```txt
