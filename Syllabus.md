@@ -10,6 +10,8 @@ This course provides an introduction to programming using the C++ language. Stud
 Emphasis is placed on structured and object-oriented programming techniques to design, implement, and test programs. The course also covers the organization of standard Input/Output (I/O) classes and the use of modular program design. 
 By the end of the course, students will be able to apply C++ programming skills to solve computational problems. This course is intended for computer science majors and students seeking a solid foundation in computer programming.
 
+## [Student learning outcomes](https://github.com/d-khan/sdccd/blob/main/slos.md)
+
 ## Course information
 
 |<div style="width:100px"></div> |                |
